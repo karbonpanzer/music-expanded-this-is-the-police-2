@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_001</defName>
+    <label>This Is the Police 2- Cold Bones</label>
+    <clipPath>MusicExpanded/TIP2/Cold Bones</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_002</defName>
+    <label>This Is the Police 2- Groundhog</label>
+    <clipPath>MusicExpanded/TIP2/Groundhog</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_003</defName>
+    <label>This Is the Police 2- Tooth For A Tooth</label>
+    <clipPath>MusicExpanded/TIP2/Tooth For A Tooth</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_004</defName>
+    <label>This Is the Police 2- Redman</label>
+    <clipPath>MusicExpanded/TIP2/Redman</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_005</defName>
+    <label>This Is the Police 2- Old Habits</label>
+    <clipPath>MusicExpanded/TIP2/Old Habits</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_006</defName>
+    <label>This Is the Police 2- An Iniquitous Inclination</label>
+    <clipPath>MusicExpanded/TIP2/An Iniquitous Inclination</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_007</defName>
+    <label>This Is the Police 2- A Nordic Travail</label>
+    <clipPath>MusicExpanded/TIP2/A Nordic Travail</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_008</defName>
+    <label>This Is the Police 2- From The Old</label>
+    <clipPath>MusicExpanded/TIP2/From The Old</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_009</defName>
+    <label>This Is the Police 2- Contrition</label>
+    <clipPath>MusicExpanded/TIP2/Contrition</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_010</defName>
+    <label>This Is the Police 2- Zeitgeist</label>
+    <clipPath>MusicExpanded/TIP2/Zeitgeist</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_011</defName>
+    <label>This Is the Police 2- In From The Cold</label>
+    <clipPath>MusicExpanded/TIP2/In From The Cold</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_012</defName>
+    <label>This Is the Police 2- The Stoic</label>
+    <clipPath>MusicExpanded/TIP2/The Stoic</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_013</defName>
+    <label>This Is the Police 2- Snus</label>
+    <clipPath>MusicExpanded/TIP2/Snus</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_014</defName>
+    <label>This Is the Police 2- Attrition</label>
+    <clipPath>MusicExpanded/TIP2/Attrition</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_015</defName>
+    <label>This Is the Police 2- Värdelös</label>
+    <clipPath>MusicExpanded/TIP2/Värdelös</clipPath>
+    <cue>BattleSmall</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_016</defName>
+    <label>This Is the Police 2- Animal Horror</label>
+    <clipPath>MusicExpanded/TIP2/Animal Horror</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_017</defName>
+    <label>This Is the Police 2- Temporary Suicide</label>
+    <clipPath>MusicExpanded/TIP2/Temporary Suicide</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_018</defName>
+    <label>This Is the Police 2- Consolation Prize</label>
+    <clipPath>MusicExpanded/TIP2/Consolation Prize</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_019</defName>
+    <label>This Is the Police 2- Wrong Side Of The Grave</label>
+    <clipPath>MusicExpanded/TIP2/Wrong Side Of The Grave</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_020</defName>
+    <label>This Is the Police 2- Step Aside</label>
+    <clipPath>MusicExpanded/TIP2/Step Aside</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_021</defName>
+    <label>This Is the Police 2- Jagged</label>
+    <clipPath>MusicExpanded/TIP2/Jagged</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_022</defName>
+    <label>This Is the Police 2- Lightweight</label>
+    <clipPath>MusicExpanded/TIP2/Lightweight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_023</defName>
+    <label>This Is the Police 2- Exhale</label>
+    <clipPath>MusicExpanded/TIP2/Exhale</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_024</defName>
+    <label>This Is the Police 2- Bass Ventura</label>
+    <clipPath>MusicExpanded/TIP2/Bass Ventura</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_025</defName>
+    <label>This Is the Police 2- The Ghost Archetype</label>
+    <clipPath>MusicExpanded/TIP2/The Ghost Archetype</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_026</defName>
+    <label>This Is the Police 2- Red - Green</label>
+    <clipPath>MusicExpanded/TIP2/Red - Green</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_027</defName>
+    <label>This Is the Police 2- Murken Mists</label>
+    <clipPath>MusicExpanded/TIP2/Murken Mists</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TIP2_028</defName>
+    <label>This Is the Police 2- Careless Love</label>
+    <clipPath>MusicExpanded/TIP2/Careless Love</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>ME_TITP2</defName>
+    <label>Music Expanded: This Is the Police 2</label>
+    <description>Crime drama and ambient tracks from This Is the Police 2 integrated via Music Expanded Framework.</description>
+    <iconPath>UI/Icons/TIP2</iconPath>
+    <tracks>
+      <li>TIP2_001</li>
+      <li>TIP2_002</li>
+      <li>TIP2_003</li>
+      <li>TIP2_004</li>
+      <li>TIP2_005</li>
+      <li>TIP2_006</li>
+      <li>TIP2_007</li>
+      <li>TIP2_008</li>
+      <li>TIP2_009</li>
+      <li>TIP2_010</li>
+      <li>TIP2_011</li>
+      <li>TIP2_012</li>
+      <li>TIP2_013</li>
+      <li>TIP2_014</li>
+      <li>TIP2_015</li>
+      <li>TIP2_016</li>
+      <li>TIP2_017</li>
+      <li>TIP2_018</li>
+      <li>TIP2_019</li>
+      <li>TIP2_020</li>
+      <li>TIP2_021</li>
+      <li>TIP2_022</li>
+      <li>TIP2_023</li>
+      <li>TIP2_024</li>
+      <li>TIP2_025</li>
+      <li>TIP2_026</li>
+      <li>TIP2_027</li>
+      <li>TIP2_028</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>
